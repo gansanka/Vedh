@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Vedh: Simple Math for Kids</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="tables">Tables</string>
+
+    <string-array name="levels_array">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+    <string-array name="muliple_array">
+        <item>Level 1</item>
+        <item>Level 2</item>
+    </string-array>
+    <string-array name="table_array">
+        <item>1 Table</item>
+        <item>2 Table</item>
+        <item>3 Table</item>
+        <item>4 Table</item>
+        <item>5 Table</item>
+        <item>6 Table</item>
+        <item>7 Table</item>
+        <item>8 Table</item>
+        <item>9 Table</item>
+        <item>10 Table</item>
+    </string-array>
+</resources>
